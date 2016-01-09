@@ -1,3 +1,5 @@
-# HtmlLesson
+# Html Lesson
 
-a [Sails](http://sailsjs.org) application
+a reference for all HTML elements
+
+Full reference [here](http://www.w3schools.com/tags/default.asp) 
